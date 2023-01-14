@@ -2,6 +2,7 @@
 
 var name1 = "Rajnikant";
 var names = 'Akshay Kumar';
+
 console.log(name1);
 console.log(names);
 console.log(typeof(name1));
