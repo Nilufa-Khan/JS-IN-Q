@@ -29,6 +29,7 @@ function anotherExample(){
 
      console.log("Value of b = " + b); //// Outputs "undefined" since the initialization of "b" is not hoisted
      b = 'omg'
+     
      var b;
 }
 // anotherExample()
