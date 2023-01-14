@@ -54,6 +54,7 @@ var obj1 = {
 }
 
 console.log(obj1)
+
 // collection of different types of of data stored in order list
 
 var array = [12, "good night",true,4.5];
