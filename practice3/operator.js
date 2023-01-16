@@ -53,6 +53,7 @@ console.log("&& operator "+(ope1 && ope3))  // returns undefined
 // isNan function
 
 var val1 = NaN;
+
 var val2 = 78;
 console.log(isNaN(val1)) // true
 console.log(isNaN(val2)) // false
