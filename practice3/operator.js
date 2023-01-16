@@ -15,6 +15,7 @@ console.log("=== operator example "+ (a===b)); // false
 //  when a number is added to a  string number type also converted into
 // string
 // type coercion
+
 var first = 23;
 var second = "78"
 var third = "welcome";
