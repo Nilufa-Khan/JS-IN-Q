@@ -16,6 +16,7 @@ console.log(example2) // output 22 , since example2 points a new memory location
 // in this case referance of obj is passing to obj1
 // that means if any changes occur in obj it will reflect inside obj1
 
+
 var obj = { name: "Vivek", surname: "Bisht" };
 var obj1 = obj;
 console.log("Before changes ")
