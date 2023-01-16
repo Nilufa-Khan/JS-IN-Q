@@ -27,6 +27,7 @@ console.log(first - third) //NaN
 
 // boolean coercion
 
+
 var op1 = 0; // 0 , -0, NaN,"", false, undefined these are falsy values
 var op2 = 29;
 if(op1){
