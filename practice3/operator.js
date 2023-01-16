@@ -7,6 +7,7 @@ var b = "222";
 console.log("== operator example "+ (a==b)); // true
 console.log("=== operator example "+ (a===b)); // false
 
+
 // implicit type coercion in js is the automatic conversion of value from 
 // one data type to another., it takes place when the operands 
 // of an expression are of different data type
