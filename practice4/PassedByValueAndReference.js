@@ -21,6 +21,7 @@ var obj = { name: "Vivek", surname: "Bisht" };
 var obj1 = obj;
 
 console.log("Before changes ")
+
 console.log(obj1);//{name: 'Vivek', surname: 'Bisht'}
 obj.name = "RRR"
 console.log("After changes ")
