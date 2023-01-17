@@ -19,6 +19,7 @@ console.log(example2) // output 22 , since example2 points a new memory location
 
 var obj = { name: "Vivek", surname: "Bisht" };
 var obj1 = obj;
+
 console.log("Before changes ")
 console.log(obj1);//{name: 'Vivek', surname: 'Bisht'}
 obj.name = "RRR"
