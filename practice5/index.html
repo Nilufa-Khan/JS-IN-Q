@@ -9,10 +9,14 @@
         document.addEventListener("click",function click(){
             console.log("clicked");
             // alert("hello")
-            
+
             let conf = confirm("Are You Sure?")
             console.log(conf)
         })
+        setTimeout(() => {
+            console.log("I will be print after 3 second")
+        }, 3000);
+        console.log("i will be print before set time out function ")
     </script>
 </head>
 <body>
